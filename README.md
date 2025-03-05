@@ -67,7 +67,6 @@ My interests lie at the intersection of **data science, AI, and automation**, wh
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushkanayak15)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/anushkanayak15)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://your-portfolio-link.com)  
 📧 **Email**: [anushkanayak15@g.ucla.edu](mailto:anushkanayak15@g.ucla.edu)  
 
 ---
