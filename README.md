@@ -9,17 +9,17 @@ My interests lie at the intersection of **data science, AI, and automation**, wh
 ## 🎓 Education  
 
 ### **University of California, Los Angeles (UCLA)**
-**📍 Bachelor of Science in Computer Science | Minor in Data Science Engineering**  
-**🗓️ Expected: June 2026**  
-**🏅 Dean’s Honor List**  
+** Bachelor of Science in Computer Science | Minor in Data Science Engineering**  
+** Expected: June 2026**  
+** Dean’s Honor List**  
 
 ---
 
 ## 💡 About Me  
-- 🛠 **Intern @ EY | Researcher @ Center for Biological Diversity** → Experience in **data analysis, automation, and sustainability research**  
-- 🏆 **Technical Project Lead** → Led multiple projects, including a **song popularity predictor** and a **book recommendation system**  
-- 📊 **Analytics & Business Intelligence** → Hands-on experience in **Tableau, Power BI, and statistical modeling**  
-- 💡 **Problem Solver** → Loves working with **large datasets, uncovering insights, and building scalable solutions**  
+-  **Intern @ EY | Researcher @ Center for Biological Diversity** → Experience in **data analysis, automation, and sustainability research**  
+-  **Technical Project Lead** → Led multiple projects, including a **song popularity predictor** and a **book recommendation system**  
+-  **Analytics & Business Intelligence** → Hands-on experience in **Tableau, Power BI, and statistical modeling**  
+-  **Problem Solver** → Loves working with **large datasets, uncovering insights, and building scalable solutions**  
 
 
 ### 🛠 Tech Stack
@@ -55,7 +55,7 @@ My interests lie at the intersection of **data science, AI, and automation**, wh
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 #### 🎵 **Predicting Song Popularity with Machine Learning** 
 
 #### 📚 **Book Recommendation Engine**
