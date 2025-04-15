@@ -9,9 +9,9 @@ My interests lie at the intersection of **data science, AI, and automation**, wh
 ## 🎓 Education  
 
 ### **University of California, Los Angeles (UCLA)**
-** Bachelor of Science in Computer Science | Minor in Data Science Engineering**  
-** Expected: June 2026**  
-** Dean’s Honor List**  
+**Bachelor of Science in Computer Science | Minor in Data Science Engineering**  
+**Expected: June 2026**  
+**Dean’s Honor List**  
 
 ---
 
