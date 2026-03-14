@@ -4,14 +4,6 @@
 **Bachelor of Science in Computer Science**  
 **Expected: June 2026**  
 
----
-
-###  Featured Projects
-#### 🎵 **Predicting Song Popularity with Machine Learning** 
-
-#### 📚 **Book Recommendation Engine**
-
-#### 🏋️ **ByteBod (Social Media for Fitness)**
 
 ---
 
